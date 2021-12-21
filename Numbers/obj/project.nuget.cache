@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hko6AmpRU0bLVuqSJ0tQhQAmRC+EMY9sET//eo7pbTvFZM/1z7YW3lsrMhTJEi2ZJRjnIz5ah6be7o/SWKyjlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\source\\repos\\Numbers\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
